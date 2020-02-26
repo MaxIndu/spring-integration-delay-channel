@@ -1,1 +1,3 @@
-# spring-integration-delay-channel
+# Delay channel for Spring Integration 
+
+Simple delay chanel implementation for the Spring integration.
